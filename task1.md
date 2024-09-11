@@ -3,7 +3,7 @@
 ## Github
 
 * Create a Github account
-* Add me as a friend (Louisblack) and each other
+* Add me as a friend [Louisblack](https://github.com/louisblack) and each other
 * Create a new repository (initialise with a readme)
 * Add a branch protection rule on main to require pull requests.
 * Clone that new repository to your laptop using SSH (you’ll need to set up SSH keys in Github).
