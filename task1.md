@@ -16,6 +16,8 @@
 
 ## Objects and Inheritance 
 
+This task is about [Java Inheritance](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html).
+
 First create a Maven project and ensure it has Junit 5 as a dependency and Surefire plugin so you can run the tests (you can just grab the Junit 5 Maven starter from Github).
 
 Because I’m old the first domain modelling thing I could think of was physical media so we’ll do that!
@@ -127,6 +129,8 @@ If no disc is loaded it should return the String...
 Turning on the TV
 Oh no, no disc loaded!
 ```
+
+If you're accessing the `this.loaded` field in your subclass, out of interest try changing the accessor `protected` to `private` and see what it does to your subclass.
 
 ### Testing
 
