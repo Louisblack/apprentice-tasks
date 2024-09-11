@@ -11,7 +11,7 @@
 * Update your readme file to add the markdown header “Media Players”
 * Commit to your branch with a descriptive commit message
 * Push your branch to Github
-* Open a pull request and add me as a reviewer.
+* Open a pull request and add me as a reviewer (you'll need to add me as a collaborator in your repo settings).
 * Merge the PR!
 
 ## Objects and Inheritance 
