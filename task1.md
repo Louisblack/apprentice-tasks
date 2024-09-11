@@ -161,6 +161,10 @@ The classes should have some tests. For example, for the `CDPlayer` class we cou
         }, "Disc already loaded");
     }
 ```
+### Note
+
+Inheritance is an important thing to understand in Java but its use can be dangerous if used in the wrong situation.
+It is often better to [prefer composition over inheritance](https://blogs.oracle.com/javamagazine/post/java-inheritance-composition) to reduce coupling.
 
 ## Github Actions
 
