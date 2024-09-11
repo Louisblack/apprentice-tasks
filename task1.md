@@ -166,3 +166,6 @@ Now you've got a repository and a project, you can make sure your tests are run 
 * Copy your code into that repository folder.
 * Set up  `.gitignore` file so you don't commit your `target` and `.idea` directories or your `*.iml` file.
 * Set it up so Github will run `mvn test` when you open a new PR or merge to `Main` https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-java-with-maven
+* Merge your PR to main
+* Update the settings for your repository so that you can only merge your PR when your tests are passing.
+* Create a new branch, make a breaking change, open a PR and see it blocking you merging and assign me as a reviewer.
